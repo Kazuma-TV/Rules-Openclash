@@ -144,26 +144,6 @@ payload:
   - IP-CIDR,125.209.208.0/20
   - IP-CIDR,147.92.128.0/17
   - IP-CIDR,203.104.144.0/21
-- "+.gcld-line.com"
-- "+.lin.ee"
-- "+.line-apps-beta.com"
-- "+.line-apps-rc.com"
-- "+.line-apps.com"
-- "+.line-beta.me"
-- "+.line-cdn.net"
-- "+.line-scdn.net"
-- "+.line.biz"
-- "+.line.me"
-- "+.line.naver.jp"
-- "+.linecorp.com"
-- "+.linefriends.com"
-- "+.linefriends.com.tw"
-- "+.linegame.jp"
-- "+.linemobile.com"
-- "+.linemyshop.com"
-- "+.lineshoppingseller.com"
-- "+.linetv.tw"
-- "+.nhncorp.jp"
   
    # Telegram
   - DOMAIN-SUFFIX,telegra.ph
